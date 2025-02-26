@@ -19,7 +19,6 @@ I'm a passionate backend developer focused on building robust, secure, and scala
 
 ## 🚀 Projects
 
-### Secure API Gateway
 You can view the Repos section to view some of the work i did.
 
 ## 🌱 Current Focus
