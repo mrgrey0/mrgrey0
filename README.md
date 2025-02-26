@@ -1,12 +1,12 @@
 # 👨‍💻 Backend Developer & Security Specialist
 
-I'm a passionate backend developer focused on building robust, secure, and scalable server-side applications. While my strengths lie in crafting efficient backend architectures and implementing security measures, I prefer to leave the design work to the frontend specialists.
+I'm a passionate backend developer focused on building robust, secure, and scalable server-side applications. While my strengths lie in crafting efficient backend architectures and implementing security measures, I prefer to leave the design work to the frontend specialists. I also develop low budget projects as my side business. Some of them you will find on my repo section and the rest i have to keep private.
 
 ## 🛠️ Tech Stack
 
 ### Backend Development
-- **Languages**: Node.js, Python, Java
-- **Frameworks**: Express.js, Django, Spring Boot
+- **Languages**: Node.js, Python, Java, Dart
+- **Frameworks**: Express.js, Django, Spring Boot, Flutter.
 - **Databases**: 
   - **SQL**: PostgreSQL, MySQL
   - **NoSQL**: MongoDB
